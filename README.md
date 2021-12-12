@@ -1,3 +1,3 @@
 # HTML_CSS basics
 
-https://github.com/newgalaxian/HTML_JavaScript/blob/main/screenshot.png
+![screenshot](https://user-images.githubusercontent.com/12398746/145709157-17121d92-ee75-48db-8045-669af792c3eb.png)
